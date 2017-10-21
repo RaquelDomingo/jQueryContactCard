@@ -1,0 +1,37 @@
+*{
+    font-family: "Verdana"
+}
+.container{
+  width: 1000px;
+  height: 1000px;
+}
+.box{
+  /*background-color: yellow;*/
+  width: 400px;
+  height: 100px;
+  display: inline-block;
+}
+.content{
+  font-size: 20px;
+}
+.note{
+  font-size: 20px;
+}
+#adduser{
+  padding: 5px 5px 5px 5px;
+  font-size: 12px;
+}
+
+#back{
+  display: none;
+}
+#description{
+  display: inline-block;
+  margin: 0px 0px 0px 40px;
+  width: 300px;
+  height: 100px;
+  vertical-align: top;
+  text-align: center;
+  border: 2px solid black;
+  font: 18px;
+}
